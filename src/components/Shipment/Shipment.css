@@ -1,0 +1,12 @@
+.shipment-form{
+    margin: 20px 100px;
+}
+.shipment-form input{
+    display: block;
+    margin-top: 20px;
+    width: 300px;
+}
+.shipment-form span{
+    display: block;
+    color: red;
+}
