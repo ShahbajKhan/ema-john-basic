@@ -6,8 +6,6 @@ import { createUserWithEmailAndPassword, handleFacebookSignIn, handleGoogleSignI
 
 
 const Login = () => {
-
-
     const [newUser, setNewUser] = useState(false);
     const [user, setUser] = useState({
         isSignedIn: false,
